@@ -1,0 +1,5 @@
+a=int(input("Enter an integer:"))
+b=int(input("Enter an integer:"))
+print(a<3 or b==3)
+print(not(a))
+print(a<5 and b>2)
